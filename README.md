@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @06Vikas
+- 👋 Hi, I’m Vikas
 - 👀 I’m interested in Java development
 - 🌱 I’m currently learning Java full stack developer course
 - 💞️ I’m looking to collaborate on Java development
